@@ -1,0 +1,20 @@
+{
+  "name": "set_parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tip0chek/set_parcel.git"
+  },
+  "keywords": [],
+  "author": "tip0chek <dirynchik@gmail.com>",
+  "license": "tip0chek®",
+  "bugs": {
+    "url": "https://github.com/tip0chek/set_parcel/issues"
+  },
+  "homepage": "https://github.com/tip0chek/set_parcel#readme"
+}
